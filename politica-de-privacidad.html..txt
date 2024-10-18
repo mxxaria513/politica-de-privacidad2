@@ -1,0 +1,23 @@
+politica-de-privacidad.html.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad</title>
+</head>
+<body>
+    <h1>Política de Privacidad</h1>
+    <p>Esta política de privacidad explica cómo recopilamos, usamos y protegemos tu información personal.</p>
+    
+    <h2>Recopilación de Datos</h2>
+    <p>Recopilamos tu información de autenticación con Google para gestionar eventos en el calendario.</p>
+
+    <h2>Uso de la Información</h2>
+    <p>Los datos se utilizan únicamente para crear eventos de calendario basados en las fechas proporcionadas.</p>
+
+    <h2>Contacto</h2>
+    <p>Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en <a href="mailto:tu_email@ejemplo.com">tu_email@ejemplo.com</a>.</p>
+</body>
+</html>
